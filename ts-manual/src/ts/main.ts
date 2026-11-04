@@ -13,6 +13,9 @@ const sum = (a:number,b:number) => {
 sum(5,10)
 
 
+// type NewType = A & {age:number};
+
+
 
 
 
