@@ -43,7 +43,7 @@ let nullA:null = null;
 
 let undef:undefined = undefined;
 
-undef = null;
+// undef = null;
 
 
 

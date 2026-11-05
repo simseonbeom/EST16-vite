@@ -2,7 +2,7 @@
 
 let a = 10;
 
-a = null;
+// a = null;
 
 
 const sum = (a:number,b:number) => {
